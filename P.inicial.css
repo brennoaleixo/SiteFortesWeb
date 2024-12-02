@@ -103,7 +103,7 @@ main {
 
 /* Estilo para a seção principal */
 .project-info {
-  background-image: url("imagens/fundo.png");
+  background-image: url("./IMAGENS/fundo.png");
   background-size: cover;
   background-position: center;
   padding: 200px 0;
